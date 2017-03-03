@@ -1,0 +1,27 @@
+[04-Aug-2016 12:53:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH) in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 4
+[04-Aug-2016 15:15:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 8
+[04-Aug-2016 15:15:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 8
+[04-Aug-2016 15:15:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 8
+[04-Aug-2016 15:15:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 8
+[04-Aug-2016 15:15:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 8
+[04-Aug-2016 15:15:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 8
+[04-Aug-2016 16:13:26 America/Mexico_City] PHP Warning:  require(/class/users.class.php): failed to open stream: No such file or directory in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 6
+[04-Aug-2016 16:13:26 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/class/users.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 6
+[04-Aug-2016 16:21:26 America/Mexico_City] PHP Fatal error:  Class 'User' not found in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 7
+[04-Aug-2016 16:21:46 America/Mexico_City] PHP Strict Standards:  Only variables should be passed by reference in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 7
+[04-Aug-2016 16:21:46 America/Mexico_City] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 8
+[04-Aug-2016 16:22:24 America/Mexico_City] PHP Strict Standards:  Only variables should be passed by reference in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 7
+[04-Aug-2016 16:22:24 America/Mexico_City] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 8
+[04-Aug-2016 16:23:19 America/Mexico_City] PHP Fatal error:  Call to undefined method PDOStatement::excute() in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 8
+[04-Aug-2016 16:25:09 America/Mexico_City] PHP Fatal error:  Call to undefined method PDOStatement::excute() in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 9
+[04-Aug-2016 16:43:53 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 8
+[05-Aug-2016 16:15:33 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 11
+[05-Aug-2016 16:30:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':' in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 11
+[10-Aug-2016 15:48:56 America/Mexico_City] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 11
+[10-Aug-2016 15:49:00 America/Mexico_City] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 11
+[10-Aug-2016 15:50:01 America/Mexico_City] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 11
+[10-Aug-2016 15:50:29 America/Mexico_City] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 12
+[10-Aug-2016 15:50:30 America/Mexico_City] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 12
+[10-Aug-2016 15:54:42 America/Mexico_City] PHP Parse error:  syntax error, unexpected ')' in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 12
+[10-Aug-2016 18:01:01 America/Mexico_City] PHP Parse error:  syntax error, unexpected ')' in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 12
+[10-Aug-2016 18:01:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected ';' in /home/unitymx/public_html/proyectos/proyectxqa/actions/users.actions.php on line 14

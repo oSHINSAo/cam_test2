@@ -1,0 +1,8 @@
+[10-Aug-2016 11:01:54 America/Mexico_City] PHP Warning:  require(Array): failed to open stream: No such file or directory in /home/unitymx/public_html/proyectos/proyectxqa/class/mailing.class.php on line 9
+[10-Aug-2016 11:01:54 America/Mexico_City] PHP Warning:  require(Array): failed to open stream: No such file or directory in /home/unitymx/public_html/proyectos/proyectxqa/class/mailing.class.php on line 9
+[10-Aug-2016 11:01:54 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'Array' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/unitymx/public_html/proyectos/proyectxqa/class/mailing.class.php on line 9
+[10-Aug-2016 11:06:30 America/Mexico_City] PHP Warning:  Creating default object from empty value in /home/unitymx/public_html/proyectos/proyectxqa/class/mailing.class.php on line 20
+[10-Aug-2016 11:06:30 America/Mexico_City] PHP Fatal error:  Call to undefined method stdClass::addAddress() in /home/unitymx/public_html/proyectos/proyectxqa/class/mailing.class.php on line 23
+[10-Aug-2016 11:08:49 America/Mexico_City] PHP Warning:  Creating default object from empty value in /home/unitymx/public_html/proyectos/proyectxqa/class/mailing.class.php on line 20
+[10-Aug-2016 11:08:49 America/Mexico_City] PHP Fatal error:  Call to undefined method stdClass::setFrom() in /home/unitymx/public_html/proyectos/proyectxqa/class/mailing.class.php on line 22
+[10-Aug-2016 11:09:18 America/Mexico_City] PHP Fatal error:  Call to a member function setFrom() on a non-object in /home/unitymx/public_html/proyectos/proyectxqa/class/mailing.class.php on line 20

@@ -1,0 +1,2 @@
+[04-Aug-2016 11:38:32 America/Mexico_City] PHP Warning:  require(/includes/config.php): failed to open stream: No such file or directory in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 2
+[04-Aug-2016 11:38:32 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '/includes/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/unitymx/public_html/proyectos/proyectxqa/class/users.class.php on line 2

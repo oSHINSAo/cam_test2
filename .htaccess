@@ -1,0 +1,25 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+#Pages
+
+RewriteRule messages/([^/]*)/?$ messages.php?user=$1 [L]
+RewriteRule messages/?$ messages.php [L]
+RewriteRule messages-sent/?$ messages-sent.php [L]
+RewriteRule messages-deleted/?$ messages-deleted.php [L]
+
+RewriteRule shop/?$ shop.php [L]
+RewriteRule shop/([^/]*)-([^/]*)$ article.php?id=$2 [L]
+
+RewriteRule activate/?$ activate.php [L]
+
+RewriteRule logout/?$ exit.php
+
+RewriteRule profile/?$ profile.php
+RewriteRule profile/([^/]*)/?$ profile.php?nick=$1 [L]
+
+RewriteRule register/models$ includes/register/model.php [L]
+RewriteRule models/?$ models.php [L]
+
+RewriteRule ^([^/]*)\.act$ /activate.php?token=$1 [L]
+RewriteRule ^([^/]*)\.tkn([^/]*)\.res$ /index.php?nick=$1 [L]
